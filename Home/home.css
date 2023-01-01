@@ -3,7 +3,7 @@
     font-family: 'josefin sans', sans-serif;
 }
 body{
-    background-image: url("dark-clouds-2.jpg");
+    background-image: url("/Home/dark-clouds-2.jpg");
     min-height: 200vh;
     position: relative;
     background-size: cover;
