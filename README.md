@@ -34,4 +34,8 @@ Follow these instructions to set up the project locally:
    ```
 
 ## Screenshots
-
+#### admin panale
+![Alt text](https://github.com/SandaruthSiriwardana/project_21/blob/04b0d3376549cddef160930f8fba3adf1c839e14/SS/admin%20home.png)
+![Alt text](https://github.com/SandaruthSiriwardana/project_21/blob/04b0d3376549cddef160930f8fba3adf1c839e14/SS/admin%202.png)
+![Alt text](https://github.com/SandaruthSiriwardana/project_21/blob/04b0d3376549cddef160930f8fba3adf1c839e14/SS/admin%203.png)
+![Alt text](https://github.com/SandaruthSiriwardana/project_21/blob/04b0d3376549cddef160930f8fba3adf1c839e14/SS/amin%204.png)
