@@ -30,7 +30,7 @@ Follow these instructions to set up the project locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/flight-booking-system.git
+   https://github.com/SandaruthSiriwardana/project_21.git
    ```
 
 ## Screenshots
